@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Sahil Khatri" />
+</h1>
 
-<!--
-**Sahil-2101/Sahil-2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Sahil, a 22 years old Software developer.
 
-Here are some ideas to get you started:
+- 🦔 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 
+
+- 🧭 
+
+- 👥 
+
++ a lot more ;)
+
+## Skills
+- 👨‍💻 Python, C, Java, JavaScript, and constantly learning more...
+- ⚙️ React, Tensorflow, Node.JS, Express.JS
+- 👁️ Experienced in banking simulations, network utilities, and financial analysis tools
+- 💽 MySQL, SQL, MongoDB
++ a lot more :D
+
+## Contact
+- [Web Portfolio](https://blessed-employee-821987.framer.app/)
+- [LinkedIn](https://www.linkedin.com/in/sahil-khatri-/)
+- [Instagram](https://www.instagram.com/sahil_k2003_/#)
